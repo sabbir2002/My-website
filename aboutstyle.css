@@ -1,0 +1,87 @@
+button{
+	font-size: 10px;
+	background: pink;
+	font-weight: 600;
+	padding: 5px 20px;
+	border: 1px solid #000;
+	border-radius: 10px 0px 10px 0px;
+}
+button:hover{
+	background: lightgreen;
+	transition: 1s;
+	border-radius: 0px 10px 0px 10px;
+
+}
+p{
+	text-align: center;
+			
+}
+ .menu{
+	background: black;
+	height: 40px;
+	 }
+
+ul{
+	list-style: none;
+	width: 700px;
+	margin: auto;
+	
+}
+
+ul li {
+	display: inline-block;
+	line-height: 40px;	
+}
+
+ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+	font-weight: 600;
+	padding: 5px 20px;
+	border: 1px solid #ffff;
+	transition: 2s;
+	border-radius: 10px 0px 10px 0px;
+
+
+}
+
+ul li a:hover{
+	background: lightgreen;
+	transition: 1s;
+	border-radius: 0px 10px 0px 10px;
+
+}
+.adress{
+	text-align :center;
+	font-size: 30px;
+	transition: 2s;
+	color: green;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
